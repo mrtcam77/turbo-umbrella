@@ -1,9 +1,9 @@
 # Dreams
 *Edgar Allan Poe*
 
-Oh! that my young life were a lasting _dream!_
-My spirit not awakening, till the beam
-Of an Eternity should bring the morrow.
+* Oh! that my young life were a lasting _dream!_
+* My spirit not awakening, till the beam
+* Of an Eternity should bring the morrow.
 Yes! tho' that long _dream_ were of hopeless sorrow,
 'Twere better than the cold reality
 Of waking life, to him whose heart must be,
