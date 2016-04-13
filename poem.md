@@ -1,17 +1,20 @@
-Oh! that my young life were a lasting dream!
+# Dreams
+*Edgar Allan Poe*
+
+Oh! that my young life were a lasting _dream!_
 My spirit not awakening, till the beam
 Of an Eternity should bring the morrow.
-Yes! tho' that long dream were of hopeless sorrow,
+Yes! tho' that long _dream_ were of hopeless sorrow,
 'Twere better than the cold reality
 Of waking life, to him whose heart must be,
 And hath been still, upon the lovely earth,
 A chaos of deep passion, from his birth.
 But should it be, that dream eternally
-Continuing, as dreams have been to me
+Continuing, as _dreams_ have been to me
 In my young boyhood, should it thus be given,
 'Twere folly still to hope for higher Heaven.
 For I have revell'd, when the sun was bright
-I' the summer sky, in dreams of living light
+I' the summer sky, in _dreams_ of living light
 And loveliness, have left my very heart
 In climes of my imagining, apart
 From mine own home, with beings that have been
@@ -25,11 +28,13 @@ Shone on my slumbers in her lofty noon
 Too coldly, or the stars, howe'er it was
 That dream was as that night-wind, let it pass.
 
-I have been happy, tho' in a dream.
+I have been happy, tho' in a _dream._
 I have been happy, and I love the theme:
-Dreams! in their vivid coloring of life,
+_Dreams!_ in their vivid coloring of life,
 As in that fleeting, shadowy, misty strife
 Of semblance with reality, which brings
 To the delirious eye, more lovely things
 Of Paradise and Love, and all our own!
 Than young Hope in his sunniest hour hath known.
+
+http://www.public-domain-poetry.com/edgar-allan-poe/dreams-1709
